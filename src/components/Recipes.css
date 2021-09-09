@@ -1,0 +1,48 @@
+._recipes {
+  margin: 5% auto;
+  padding: 5%;
+  background-color: #008080b4;
+  border-radius: 150px;
+  overflow: hidden;
+}
+
+.img {
+  overflow: hidden;
+  display: inline-block;
+  border: 2px solid #004c4c;
+  border-radius: 30px;
+}
+
+._image:hover {
+  transform: scale(1.1);
+}
+
+._image {
+  transition: transform 0.5s;
+}
+
+._label {
+  font-size: 2.5rem;
+}
+
+._calories,
+._ingredients {
+  font-size: 1.5rem;
+}
+
+._ingredients_box {
+  background: #b2d8d87c;
+  width: 80%;
+  margin: 1% auto;
+  padding: 1%;
+  border-radius: 50px;
+}
+
+._ingredients_tit {
+  font-size: 2rem;
+}
+
+._ingredients {
+  text-align: center;
+  padding: 0 5%;
+}
