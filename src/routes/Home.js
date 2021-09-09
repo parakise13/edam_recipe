@@ -6,7 +6,7 @@ import "./Home.css";
 const Home = () => {
   const [recipes, setRecipes] = useState([]);
   const [search, setSearch] = useState("");
-  const [query, setQuery] = useState("chocolate");
+  const [query, setQuery] = useState("chicken");
 
   const APP_ID = "d2015cf0";
   const APP_KEYS = "5cb774aba966f21157918f0bd0f97690";
