@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/edam_recipe/static/css/main.8701c8aa.chunk.css",
+    "main.js": "/edam_recipe/static/js/main.ecfb7a88.chunk.js",
+    "main.js.map": "/edam_recipe/static/js/main.ecfb7a88.chunk.js.map",
+    "runtime-main.js": "/edam_recipe/static/js/runtime-main.b7bd1d0b.js",
+    "runtime-main.js.map": "/edam_recipe/static/js/runtime-main.b7bd1d0b.js.map",
+    "static/js/2.a124687c.chunk.js": "/edam_recipe/static/js/2.a124687c.chunk.js",
+    "static/js/2.a124687c.chunk.js.map": "/edam_recipe/static/js/2.a124687c.chunk.js.map",
+    "index.html": "/edam_recipe/index.html",
+    "static/css/main.8701c8aa.chunk.css.map": "/edam_recipe/static/css/main.8701c8aa.chunk.css.map",
+    "static/js/2.a124687c.chunk.js.LICENSE.txt": "/edam_recipe/static/js/2.a124687c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7bd1d0b.js",
+    "static/js/2.a124687c.chunk.js",
+    "static/css/main.8701c8aa.chunk.css",
+    "static/js/main.ecfb7a88.chunk.js"
+  ]
+}
